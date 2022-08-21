@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nasudon. 
-- Welcome to my Donburi.
+- 👋 Welcome to my Donburi.
 
 <!---
 nasudon/nasudon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
